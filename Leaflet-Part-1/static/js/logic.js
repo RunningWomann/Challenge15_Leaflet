@@ -2,7 +2,7 @@
 var url = 'data/all_week.geojson'
 
 // Store our API endpoint as queryUrl.
-// selection based on all earthquakes for the last 30 days
+// selection based on all earthquakes for the last 7 days
 var queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson'
 
 // change the color based on feature's earthquake depth
